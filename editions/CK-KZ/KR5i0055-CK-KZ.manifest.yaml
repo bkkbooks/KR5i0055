@@ -1,0 +1,61 @@
+canonical_identifier: bkk:krp/KR5i0055/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5i0055/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 呂帝聖蹟紀要
+  date: '2015-08-29 17:53:46.974311'
+  source:
+    repository: kanripo
+    path: KR5i0055
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0055_001-CK-KZ.yaml, hash: 'sha256:4dc8af803fc2eea24e917ad3ee21a3826f5b5bfe1f4a147682f2a84dda4c361d'}
+  - {seq: 2, filename: KR5i0055_002-CK-KZ.yaml, hash: 'sha256:4cfb088c75ce8a54185eebe8a656f4418dc72810f2bd381dac2231a433df0545'}
+  - {seq: 3, filename: KR5i0055_003-CK-KZ.yaml, hash: 'sha256:b75f1c97156e3e94d32f6abacf405e5f37bae30faca41e08f816bcfc4aa07609'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0055_001-CK-KZ.markers.yaml, hash: 'sha256:213427b7b290b6560439303b2f2f1076011102e42d25cd19785dc96a407da9e3'}
+  - {seq: 2, role: markers, filename: assets/KR5i0055_002-CK-KZ.markers.yaml, hash: 'sha256:35ebbffe22d0722859ca0eb9c183a8d89d097b36e83d176afd8248282ff6b09c'}
+  - {seq: 3, role: markers, filename: assets/KR5i0055_003-CK-KZ.markers.yaml, hash: 'sha256:668ce822aff0b354666109a7c88e090061b1c4bd829d76bee799241da96d9125'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0055_01p001a
+    span:
+    - body
+    - 0
+    - 233
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0055_02p001a
+    span:
+    - body
+    - 0
+    - 537
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: CK-KZ_KR5i0055_03p001a
+    span:
+    - body
+    - 0
+    - 20075
+  label: juan 003
+  type: section
+  level: 1
+hash: sha256:19a2c4d623ca7372240961b1af33437961df96170218e685379aa85bb4e75bb6

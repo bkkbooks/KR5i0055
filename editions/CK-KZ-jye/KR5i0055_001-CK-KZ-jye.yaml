@@ -1,0 +1,22 @@
+canonical_identifier: bkk:krp/KR5i0055/CK-KZ-jye/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 呂帝聖蹟紀要呂帝聖蹟紀要題詞無極寶懺曰三界飛行絶迹十方救苦尋聲知言哉知言哉我帝師普度世人等觀音之愿海恆隱現而無方徧一切地則一切地皆聖蹟也周一切時則一切時皆聖蹟也夫豈紀之所能盡哉然無徵不信亦無妨就應現之蹟而一一確指之使夫智者愚者賢不肖者皆共鑿鑿然知孚佑上帝猶在人間斯慕善者有興起皈依之忱卽爲惡者凛昭鑒感應之赫則卽數十則之遺聞舊事而紀其要雖不能見我帝師之全體而亦足以彰慈心之妙運矣後之覽者各就見聞所及而印證之庶知駕船大海接應十方者之眞爲三界大恩師也宏教弟子柳守元熏沐題詞
+  hash: sha256:573932adbd0b881540ef89351c9725179e98351816177531733662a60ec0529b
+  markers:
+  - {type: page-break, offset: 6, content: '', id: CK-KZ_KR5i0055_01p001a}
+metadata:
+  title: 呂帝聖蹟紀要
+  edition:
+    short: CK-KZ-jye
+  date: '2015-08-29 17:53:46.974311'
+  source:
+    repository: kanripo
+    path: KR5i0055/KR5i0055_001.txt
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+hash: sha256:fcee4f3cb5ce42279255af34bae56354e89778c18078acec2b00460d9c5e675a
